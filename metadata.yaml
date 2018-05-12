@@ -1,0 +1,55 @@
+_repo: Ginger-Snaps_40504
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fern, Fanny
+    aliases:
+    - Willis, Grata Payson
+    - Parton, Sara Payson Willis
+    birthdate: 1811
+    deathdate: 1872
+    gutenberg_agent_id: '9387'
+    url: http://www.gutenberg.org/2009/agents/9387
+description: Title; Contents; Preface; Dinner-Parties; The Bride's New House; The
+  Happy Lot of a Sexton; Literary Aspirants; What Shall We Do for the Little Children
+  on Sunday?; My House in the Country; Why Wear Mourning?; ""Delightful Men""; Choosing
+  Presents; A Bid for an Editorship; A Sermon to Plymouth Pulpit; Female Clerks; Blue
+  Monday; The Fly in the Ointment; Woman's Millennium; English Notions About Women;
+  Rag-Tag and Bob-Tail Fashions; Some Hints to Editors; Help for the Helpful; Women
+  on the Platform; Poverty and Independence; The History of Our Late War; Two Kinds
+  of Women; Sunday Morning
+gutenberg_issued: '2012-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40504'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American essays -- 19th century'
+tableOfContents: Dinner-parties -- The bride's new house -- The happy lot of a sexton
+  -- Literary aspirants -- What shall we do for the little children on Sunday? --
+  My house in the country -- Why wear mourning? -- "Delightful men" -- Choosing presents
+  -- A bid for an editorship -- A sermon to Plymouth pulpit -- Female clerks -- Blue
+  Monday -- The fly in the ointment -- Woman's millennium -- English notions about
+  women -- Rag-tag and bob-tail fashions -- Some hints to editors -- Help for the
+  helpful -- Women on the platform -- Poverty and independence -- The history of the
+  late war -- Two kinds of women -- Sunday morning -- Justice for clergymen -- The
+  old maid of the period -- The nurse of the period -- A look backward -- Varieties
+  of human nature -- "A good mistress always makes a good servant" -- The mother-touch
+  -- Some gossip about myself -- Hospitality -- Woman and her watch -- "My doctor"
+  -- A woman at a lecture -- Can't be suited -- Autograph-hunters -- The etiquette
+  of hotel piazzas -- Old Stockbridge in Massachusetts -- Sunday in the village --
+  Sick in the village -- Men and their clothes -- Notes from Plymouth Rock -- No beaux
+  anywhere -- Daniel Webster's home -- A trip to Richmond -- The coming landlord --
+  Out on the end of Cape Ann -- Country diet -- From my seat on the rocks -- Wishings
+  and longings -- A transition state -- What Mary thought of John -- Travel-spoiled
+  Americans -- Life's illusions -- Jack Simpkins -- Biding the Lord's time -- One
+  sort of fool -- The first baby.
+title: Ginger-Snaps
+url: http://www.gutenberg.org/ebooks/40504
